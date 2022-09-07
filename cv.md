@@ -23,3 +23,8 @@ console.log(king + ' has ' + (balon * rooms) + ' rooms.');
 ```
 # **Experience**
 project development "CV" for the Rolling Scopes School.
+# **Education**
+University: Ukrainian State Academy of Railway Transport, Ukrainian State University of Nutrition and Trade.
+Courses: mobile app MIMO - Web development(HTML basics, CSS basics, Flexbox, JS basics, Reaсt basics, SQL, object-oriented programming basics).
+# **English**
+A2
